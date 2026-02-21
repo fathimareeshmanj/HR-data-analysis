@@ -13,7 +13,7 @@ This HR Analytics Dashboard is an interactive Tableau project designed to analyz
 <img width="1578" height="796" alt="Screenshot 2026-02-21 173801" src="https://github.com/user-attachments/assets/069218d9-9e22-4b4a-a344-3dd9ebac5f67" />
 
 
-🎯 Objectives
+ **Objectives**
 
 Monitor overall employee strength and attrition trends
 
@@ -23,7 +23,7 @@ Analyze attrition patterns by age group and gender
 
 Evaluate job satisfaction levels across different job roles
 
-📌 Key KPIs Displayed
+ **Key KPIs Displayed**
 
 Total Employees: 1,470
 
@@ -35,7 +35,7 @@ Active Employees: 1,233
 
 Average Employee Age: 37
 
-📈 Dashboard Insights
+ **Dashboard Insights**
 
 Department-wise Attrition: Sales department shows the highest attrition, followed by R&D and HR.
 
@@ -47,7 +47,7 @@ Education Field-wise Attrition: Life Sciences and Medical backgrounds contribute
 
 Job Satisfaction Rating: Sales Executives and Research Scientists show varied satisfaction levels, indicating areas for HR intervention.
 
-🛠 Features
+ **Features**
 
 Interactive filters (Education, Age Group, Gender)
 
@@ -55,7 +55,7 @@ Visualizations including KPIs, bar charts, pie charts, donut charts, and heat ma
 
 User-friendly layout for quick executive-level insights
 
-📄 Use Case
+ **Use Case**
 
 This dashboard can be used by:
 
