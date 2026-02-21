@@ -5,7 +5,7 @@
 Tool Used: Tableau
 Domain: Human Resources Analytics
 
- Project Overview
+ **Project Overview**
 
 This HR Analytics Dashboard is an interactive Tableau project designed to analyze employee attrition, workforce demographics, and job satisfaction. The dashboard helps HR teams and management identify key factors influencing employee turnover and make data-driven workforce decisions.
 
